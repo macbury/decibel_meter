@@ -1,0 +1,8 @@
+mqtt:
+  host: ''
+  username: ''
+  password: ''
+  port: 0
+
+meter:
+  state_topic: home/living_room/decibel_meter
